@@ -5,6 +5,8 @@ https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-goroutine
 2. reflect
 
 https://draveness.me/golang/docs/part2-foundation/ch04-basic/golang-reflect/
+https://go.dev/blog/laws-of-reflection
+https://geektutu.com/post/hpg-benchmark.html
 
 3. http2
 
