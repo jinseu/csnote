@@ -24,3 +24,9 @@ https://seisman.github.io/how-to-write-makefile/overview.html#id2
 https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/
 https://www.igvita.com/2011/08/01/protocol-buffers-avro-thrift-messagepack/
 
+
+## leveldb
+
+https://leveldb-handbook.readthedocs.io/zh/latest/basic.html
+https://zh.wikipedia.org/wiki/%E8%B7%B3%E8%B7%83%E5%88%97%E8%A1%A8
+https://github.com/google/leveldb
